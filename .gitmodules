@@ -1,0 +1,6 @@
+[submodule "nest-comic"]
+	path = nest-comic
+	url = git@github.com:tnowad/nest-comic.git
+[submodule "next-comic"]
+	path = next-comic
+	url = git@github.com:tnowad/next-comic.git
